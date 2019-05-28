@@ -1,0 +1,27 @@
+{
+  "name": "tinypixel/tiny-toc",
+  "type": "wordpress-plugin",
+  "version": "0.1.0",
+  "description": "Post content index for the WordPress 5 block editor",
+  "keywords": [
+    "laravel",
+    "blade",
+    "template",
+    "wordpress",
+    "gutenberg",
+    "blocks"
+  ],
+  "require": {
+    "php": ">=5",
+    "composer/installers": "v1.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kelly Mears",
+      "homepage": "https://tinypixel.dev"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
